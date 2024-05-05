@@ -1,7 +1,7 @@
 # cnnDL
 ## simple cli application to download videos from cnn articles
 
-Setup: `python3 main.py addalias --alias && exec bash`
+Setup: `python3 main.py addalias --alias && chmod +x main.py && exec bash`
 
 Usage: `cnnDL https://cnn.com/fakenewsbshere`
 
